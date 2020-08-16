@@ -4,6 +4,6 @@
 
 **Finnish ACC server**
 
-ACC Server configs can be viewed at [https://github.com/joniturunen/acc.joni.run/tree/master](GitHub)
+ACC Server configs can be viewed at [GitHub](https://github.com/joniturunen/acc.joni.run/tree/master)
 
 If you have suggestions or complaints you can send it via discord to _Kallungi#5508_
