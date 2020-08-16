@@ -6,4 +6,6 @@ accServer.exe
 *.pdf
 linux_apk.md
 ./cfg/current/**
-./cfig/settings.json
+./cfg/settings.json
+*.log
+*.txt
