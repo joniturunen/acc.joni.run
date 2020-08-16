@@ -1,4 +1,4 @@
-# ![acc.joni.run](https://www.assettocorsa.net/competizione/wp-content/uploads/ACC-Logo-Ambientato.jpg "ACC LOGO")
+# ![acc.joni.run](https://i.imgur.com/wNA3yYf.png "ACC LOGO")
 
 ## acc.joni.run
 
