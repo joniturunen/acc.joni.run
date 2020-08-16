@@ -1,11 +1,11 @@
 admin.pass
 spectator.pass
-./log/**
-./results/**
+log/**
+results/**
 accServer.exe
 *.pdf
 linux_apk.md
-./cfg/current/**
-./cfg/settings.json
+cfg/current/**
+cfg/settings.json
 *.log
 *.txt
