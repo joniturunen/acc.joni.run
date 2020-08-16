@@ -1,5 +1,6 @@
 #!/bin/bash
 rm ./cfg/settings.json
+git pull
 adminpass=`cat admin.pass`
 specpass=`cat spectator.pass`
 echo "admin pass set: $adminpass"
