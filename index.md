@@ -2,11 +2,8 @@
 
 ## acc.joni.run
 
-> Finnish ACC server
+**Finnish ACC server**
 
-ACC Server configs can be viewed here:
+ACC Server configs can be viewed at (https://github.com/joniturunen/acc.joni.run/tree/master)[GitHub]
 
-- [assistRules.json](./cfg/assistRules.json)
-- [configuration.json](./cfg/configuration.json)
-- [event.json](./cfg/event.json)
-- [settings.json](./cfg/settings_template.json)
+If you have suggestions or complaints you can send it via discord to _Kallungi#5508_
