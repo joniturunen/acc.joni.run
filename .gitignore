@@ -5,3 +5,5 @@ spectator.pass
 accServer.exe
 *.pdf
 linux_apk.md
+./cfg/current/**
+./cfig/settings.json
