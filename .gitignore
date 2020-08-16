@@ -1,0 +1,7 @@
+admin.pass
+spectator.pass
+./log/
+./results/
+accServer.exe
+*.pdf
+linux_apk.md
