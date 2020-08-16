@@ -1,8 +1,8 @@
 {
-  "serverName": "| acc.joni.run | Server running from AWS/Stockholm |",
+  "serverName": "acc.joni.run | 0% SC & no racing line & no autosteer",
   "carGroup": "GT3",
-  "adminPassword": "ADMIN_PASS_PLACEHOLDER",
-  "spectatorPassword": "SPEC_PASS_PLACEHOLDER",
+  "adminPassword": "SendIt",
+  "spectatorPassword": "juoppohullut",
   "trackMedalsRequirement": 3,
   "safetyRatingRequirement": 70,
   "racecraftRatingRequirement": 50,
@@ -10,4 +10,3 @@
   "maxCarSlots": 24,
   "configVersion": 1
 }
-

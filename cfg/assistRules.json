@@ -1,1 +1,1 @@
-{  "disableIdealLine": 1,  "disableAutosteer": 1,  "stabilityControlLevelMax": 1,  "disableAutoPitLimiter": 0,  "disableAutoGear": 0,  "disableAutoClutch": 0,  "disableAutoEngineStart": 0,  "disableAutoWiper": 0,  "disableAutoLights": 0}
+{  "disableIdealLine": 0,  "disableAutosteer": 1,  "stabilityControlLevelMax": 25,  "disableAutoPitLimiter": 0,  "disableAutoGear": 0,  "disableAutoClutch": 0,  "disableAutoEngineStart": 0,  "disableAutoWiper": 0,  "disableAutoLights": 0}
