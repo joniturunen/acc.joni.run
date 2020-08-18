@@ -1,35 +1,35 @@
 {
-	"track": "hungaroring_2019",
-	"preRaceWaitingTimeSeconds": 90,
-	"sessionOverTimeSeconds": 120,
-	"ambientTemp": 24,
-	"cloudLevel": 0.1,
-	"postQualySeconds": 10,
-	"postRaceSeconds": 30,
-	"rain": 0.0,
-	"weatherRandomness": 1,
-	"configVersion":" 2,
-	"sessions": [
-	       	{
-			"hourOfDay": 7,
-			"dayOfWeekend": 1,
-			"timeMultiplier": 1,
-			"sessionType": "P",
-			"sessionDurationMinutes": 12
-		},
-	       	{
-			"hourOfDay": 12,
-			"dayOfWeekend": 1,
-			"timeMultiplier": 1,
-			"sessionType": "Q",
-			"sessionDurationMinutes": 8
-		},
-		{
-			"hourOfDay": 7,
-			"dayOfWeekend": 2,
-			"timeMultiplier": 4,
-			"sessionType": "R",
-			"sessionDurationMinutes": 20
-		}
-	]
+  "track": "hungaroring_2019",
+  "preRaceWaitingTimeSeconds": 90,
+  "sessionOverTimeSeconds": 120,
+  "ambientTemp": 24,
+  "cloudLevel": 0.1,
+  "postQualySeconds": 10,
+  "postRaceSeconds": 30,
+  "rain": 0.0,
+  "weatherRandomness": 1,
+  "configVersion": 2,
+  "sessions": [
+    {
+      "hourOfDay": 7,
+      "dayOfWeekend": 1,
+      "timeMultiplier": 1,
+      "sessionType": "P",
+      "sessionDurationMinutes": 12
+    },
+    {
+      "hourOfDay": 12,
+      "dayOfWeekend": 1,
+      "timeMultiplier": 1,
+      "sessionType": "Q",
+      "sessionDurationMinutes": 8
+    },
+    {
+      "hourOfDay": 7,
+      "dayOfWeekend": 2,
+      "timeMultiplier": 4,
+      "sessionType": "R",
+      "sessionDurationMinutes": 20
+    }
+  ]
 }
