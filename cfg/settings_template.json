@@ -1,12 +1,12 @@
 {
-  "serverName": "| ACC.JONI.RUN | Juoppohullut | AWS/Stockholm |",
+  "serverName": "| ACC.JONI.RUN | GT3 | AWS/Stockholm |",
   "carGroup": "GT3",
   "adminPassword": "ADMIN_PASS_PLACEHOLDER",
   "spectatorPassword": "SPEC_PASS_PLACEHOLDER",
   "randomizeTrackWhenEmpty": 1,
-  "trackMedalsRequirement": 3,
+  "trackMedalsRequirement": 2,
   "safetyRatingRequirement": 70,
-  "racecraftRatingRequirement": 50,
+  "racecraftRatingRequirement": -1,
   "password": "",
   "maxCarSlots": 24,
   "configVersion": 1
