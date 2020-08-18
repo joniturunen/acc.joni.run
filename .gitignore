@@ -1,6 +1,6 @@
 admin.pass
 spectator.pass
-log/**
+**/log
 results/**
 accServer.exe
 *.pdf
