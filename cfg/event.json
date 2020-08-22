@@ -1,5 +1,5 @@
 {
-  "track": "hungaroring_2019",
+  "track": "misano_2019",
   "preRaceWaitingTimeSeconds": 90,
   "sessionOverTimeSeconds": 120,
   "ambientTemp": 24,
@@ -15,7 +15,7 @@
       "dayOfWeekend": 1,
       "timeMultiplier": 1,
       "sessionType": "P",
-      "sessionDurationMinutes": 12
+      "sessionDurationMinutes": 20
     },
     {
       "hourOfDay": 12,
