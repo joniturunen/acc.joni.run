@@ -4,7 +4,7 @@
   "adminPassword": "ADMIN_PASS_PLACEHOLDER",
   "spectatorPassword": "SPEC_PASS_PLACEHOLDER",
   "randomizeTrackWhenEmpty": 1,
-  "trackMedalsRequirement": 2,
+  "trackMedalsRequirement": 1,
   "safetyRatingRequirement": 50,
   "racecraftRatingRequirement": -1,
   "password": "",
